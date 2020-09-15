@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\BMICalculator\\BMICalculator\\BMICalculator.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\bmicalculator\\BMICalculator\\BMICalculator\\BMICalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\BMICalculator\\BMICalculator\\BMICalculator.csproj": {
+    "C:\\Users\\Admin\\Desktop\\bmicalculator\\BMICalculator\\BMICalculator\\BMICalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\BMICalculator\\BMICalculator\\BMICalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\bmicalculator\\BMICalculator\\BMICalculator\\BMICalculator.csproj",
         "projectName": "BMICalculator",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\BMICalculator\\BMICalculator\\BMICalculator.csproj",
-        "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\BMICalculator\\BMICalculator\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\bmicalculator\\BMICalculator\\BMICalculator\\BMICalculator.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\bmicalculator\\BMICalculator\\BMICalculator\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -52,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,3 +11,16 @@ C:\Users\opilane\source\repos\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.
 C:\Users\opilane\source\repos\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.dll
 C:\Users\opilane\source\repos\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.pdb
 C:\Users\opilane\source\repos\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.genruntimeconfig.cache
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.exe
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.deps.json
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.runtimeconfig.json
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.dll
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.pdb
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.dll
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.pdb
+C:\Users\Admin\Desktop\bmicalculator\BMICalculator\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.genruntimeconfig.cache

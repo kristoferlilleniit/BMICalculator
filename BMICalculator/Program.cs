@@ -23,7 +23,7 @@ namespace BMICalculator
                 double height = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine("How much do you weigh?");
                 double weight = Convert.ToDouble(Console.ReadLine());
-                double result = weight / (height * height);
+                double result = weight / ((height) * (height));
                 //Console.WriteLine($"Your BMI is: {result}");
 
                 if (result > 30)
